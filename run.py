@@ -1,10 +1,10 @@
 import pandas as pd
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials as SAC
-import warnings
+# import warnings
 
 
-warnings.filterwarnings('ignore')
+# warnings.filterwarnings('ignore')
 
 
 def main():
